@@ -1,0 +1,61 @@
+<div class="single-blog col-lg-4 col-md-4">
+
+							<img class="f-img img-fluid mx-auto" src="img/hills.jpeg" alt="">
+							<h4>
+								<a href="#">Mizoram is the state of rolling hills</a>
+							</h4>
+							<p>
+								With its comfortable summers and never freezing winters, Mizoram is a land of rolling hills valleys, lakes and rivers. As many as twenty-one hill ranges and peaks run in the state. The land of Blue Mountains lies in the southern most outpost of North Eastern India.
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								<div>
+									<img class="img-fluid" src="img/i1.jpg" alt="">
+									<a href="#"><span>Mark Wiens</span></a>
+								</div>
+								<div class="meta">
+									13th Nov, 2019
+									<span class="lnr lnr-heart"></span> 15
+									<span class="lnr lnr-bubble"></span> 400
+								</div>
+							</div>
+						</div>
+						<div class="single-blog col-lg-4 col-md-4">
+							<img class="f-img img-fluid mx-auto" src="img/food.jpg" alt="">
+							<h4>
+								<a href="#">Mizo Cuisine</a>
+							</h4>
+							<p>
+								The food of Mizoram can be seen as a mixture of North Indian and Chinese elements. This blend gives it a unique taste and will make you remember your meal long after you’ve eaten it.
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								<div>
+									<img class="img-fluid" src="img/i4.jpg" alt="">
+									<a href="#"><span>RhyG</span></a>
+								</div>
+								<div class="meta">
+									28th Oct, 2019
+									<span class="lnr lnr-heart"></span> 30
+									<span class="lnr lnr-bubble"></span> 3563
+								</div>
+							</div>
+						</div>
+						<div class="single-blog col-lg-4 col-md-4">
+							<img class="f-img img-fluid mx-auto" src="img/mizomuseum.jpg" alt="">
+							<h4>
+								<a href="#">Mizoram State Museum </a>
+							</h4>
+							<p>
+								The Mizoram State Museum is in Aizawl, Mizoram, India. It is an ethnographic museum with multipurpose collections on display
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								<div>
+									<img class="img-fluid" src="img/i5.jpg" alt="">
+									<a href="#"><span>PartyBro</span></a>
+								</div>
+								<div class="meta">
+									13th Dec, 2018
+									<span class="lnr lnr-heart"></span> 15
+									<span class="lnr lnr-bubble"></span> 50
+								</div>
+							</div>
+						</div>

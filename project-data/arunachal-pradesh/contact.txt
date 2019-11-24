@@ -1,0 +1,29 @@
+<div class="single-info col-lg-3 col-md-6">
+							 <h4>Visit Our Office</h4>
+							 <p>
+							 	56/8, bir uttam qazi nuruzzaman
+							 	road, kalabagan,
+							 	Dhanmondi, Dispur - 1205
+							 </p>
+						</div>
+						<div class="single-info col-lg-3 col-md-6">
+							 <h4>Let’s call us</h4>
+							 <p>
+								Phone 01: +91-6532-568-974 <br>
+								Phone 02: +91-6532-568-974 <br>
+							 </p>
+						</div>
+						<div class="single-info col-lg-3 col-md-6">
+							 <h4>Let’s Email Us</h4>
+							 <p>
+								help@assamtourism.com <br>
+								tourismhelp@assam.gov.com
+							 </p>
+						</div>
+						<div class="single-info col-lg-3 col-md-6">
+							 <h4>Customer Support</h4>
+							 <p>
+							 	support@assam.com <br>
+								emergencysupp@assam.com
+							 </p>
+						</div>

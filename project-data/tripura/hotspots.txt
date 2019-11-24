@@ -1,0 +1,67 @@
+<div class="single-blog col-lg-4 col-md-4">
+    <img class="f-img img-fluid mx-auto" src="img/b1.jpg" alt="">
+    <h4>
+    <a href="https://www.holidify.com/places/cherrapunjee/double-decker-living-root-bridge-sightseeing-1556.html">Heritage Park</a>
+    </h4>
+    <p>
+        Heritage Park is located in Kunjaban in Agartala of Tripura. The main attraction is that it offers all the flavors of Tripura at a single spot.
+    </p>
+
+    <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+        <div>
+            <img class="img-fluid" src="img/user.jpg" alt="">
+            <a href="https://www.instagram.com/prriya.nayak/"><span>Priya Nayak</span></a>
+        </div>
+        
+        <div class="meta">
+            17th Nov
+            <span class="lnr lnr-heart"></span> 1500
+            <span class="lnr lnr-bubble"></span> 50
+        </div>
+    </div>
+</div>
+
+<div class="single-blog col-lg-4 col-md-4">
+    <img class="f-img img-fluid mx-auto" src="img/b2.jpg" alt="">
+    <h4>
+        <a href="https://www.holidify.com/places/cherrapunjee/mawsmai-cave-sightseeing-1558.html">Kalyan Sagar Lake</a>
+    </h4>
+    <p>
+        Kalyan Sagar is famous for very rare species of tortoise in large numbers and adds to the beauty of Tripurasundari Temple.
+    </p>
+
+    <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+        <div>
+            <img class="img-fluid" src="img/user.jpg" alt="">
+            <a href="https://www.instagram.com/prriya.nayak/"><span>Priya Nayak</span></a>
+        </div>
+
+        <div class="meta">
+            17th Nov
+            <span class="lnr lnr-heart"></span> 1500
+            <span class="lnr lnr-bubble"></span> 50
+        </div>
+    </div>
+</div>
+
+<div class="single-blog col-lg-4 col-md-4">
+    <img class="f-img img-fluid mx-auto" src="img/b3.jpg" alt="">
+    <h4>
+        <a href="https://www.holidify.com/places/shillong/elephant-falls-sightseeing-3475.html">Ujjayanta Palace</a>
+    </h4>
+    <p>
+        The Ujjayanta Palace is a museum and the former palace of the Kingdom of Tripura situated in Agartala.
+    </p>
+    <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+        <div>
+            <img class="img-fluid" src="img/user.jpg" alt="">
+            <a href="https://www.instagram.com/prriya.nayak/"><span>Priya Nayak</span></a>
+        </div>
+
+        <div class="meta">
+            17th Nov
+            <span class="lnr lnr-heart"></span> 1500
+            <span class="lnr lnr-bubble"></span> 50
+        </div>
+    </div>
+</div>

@@ -1,0 +1,71 @@
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/shillong/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p1.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+                <h3 class="content-title">Shillong</h3>
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/cherrapunjee/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p2.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Cherrapunji</h3>
+            </div>
+        </a>
+    </div>
+</div>    
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/mawsynram/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p3.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Mawsynram</h3>
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/tura/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p4.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Tura</h3>
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/jowai/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p5.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Jowai</h3>
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/nongpoh/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p6.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Nongpoh</h3>
+            </div>
+        </a>
+    </div>
+</div>

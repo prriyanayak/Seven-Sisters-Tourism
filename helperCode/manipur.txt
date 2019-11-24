@@ -1,0 +1,8 @@
+{
+    "Imphal": " The lust green landscapes, beautiful surroundings, unexplored territories and undulating rivers of Imphal make for a great tourist destination. ",
+    "Thoubal": " A well developed city, Thoubal is a good holiday destination for those looking for a pleasant climate and numerous activities. ",
+    "Tamenglong": " This hilly region is an ideal outdoor setting for tourists interested in outdoor holidays. The beauty of this town is unparalleled with the unusual varieties of flora and fauna. ",
+    "Chandel": " Known for the various tribes that live here, Chandel is well known for its splendid mix of traditions and culture. ",
+    "Loktak Lake and Sendra Island": " The largest fresh water lake in the country, Loktak Lake and the Sendra Island on it, are one of the most beautiful attractions of the state. Situated about 50 km from Imphal, Loktak Lake is situated in the valley of Imphal and is home to all the rivers and rivulets that run in the state of Manipur.  ",
+    "Moirang": " Moirang is a small town nestled in the state of Manipur. This place has seen wars and upheavals in the past but is beautiful nonetheless. Moirang is famous for the Loktak Lake whose serene water is home to plethora of flora and fauna. This place is perfect for a weekend getaway to unwind and relax. Moirang is also a safe haven for Sangai deers which were once thought to be extinct. A short trip to Moirang will rejuvenate your soul and make you feel refreshed. "
+}

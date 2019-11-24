@@ -1,0 +1,35 @@
+<div class="single-info col-lg-3 col-md-6">
+    <h4>Visit Our Office</h4>
+    <p>
+        Swetmahal, <br>
+        Palace Compound Road, <br>
+        Agartala-799001, West Tripura.
+    </p>    
+</div>
+
+<div class="single-info col-lg-3 col-md-6">
+    <h4>Call us</h4>
+    <p>
+        Phone 01: +91-364-2502166 <br>
+        Phone 02: +91-364-2500736 <br>
+        FAX: +91-364-2226054
+    </p>
+</div>
+
+<div class="single-info col-lg-3 col-md-6">
+    <h4>Email Us</h4>
+    <p>
+        webmaster-tri@nic.in <br>
+        grievances@tri.nic.in <br>
+        infohelp@tri.nic.in
+    </p>
+</div>
+
+<div class="single-info col-lg-3 col-md-6">
+    <h4>Customer Support</h4>
+    <p>
+        support@tri.nic.in <br>
+        emergencysupp@tri.nic.in <br>
+        extremesupp@tri.nic.in
+    </p>
+</div>

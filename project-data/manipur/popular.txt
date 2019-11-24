@@ -1,0 +1,71 @@
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/imphal/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p1.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+                <h3 class="content-title">Imphal</h3>
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/thoubal/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p2.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Thoubal</h3>
+            </div>
+        </a>
+    </div>
+</div>    
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/tamenglong/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p3.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Tamenglong</h3>
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/chandel/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p4.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Chandel</h3>
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/imphal/loktak-lake-sightseeing-2085.html" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p5.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Loktak Lake & Sendra Island</h3>
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="col-lg-2 col-sm-6 single-packages no-padding"">
+    <div class="content">
+        <a href="https://www.holidify.com/places/moirang/" target="_blank">
+            <div class="content-overlay"></div>
+            <img class="content-image img-fluid d-block mx-auto" src="img/p6.jpg" alt="">
+            <div class="content-details fadeIn-bottom">
+            <h3 class="content-title">Moirang</h3>
+            </div>
+        </a>
+    </div>
+</div>

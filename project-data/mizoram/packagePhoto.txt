@@ -1,0 +1,1 @@
+<img class="img-fluid" src="img/assam-tea-plantations.jpg" alt="">

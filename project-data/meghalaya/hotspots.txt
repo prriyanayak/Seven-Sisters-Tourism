@@ -1,0 +1,67 @@
+<div class="single-blog col-lg-4 col-md-4">
+    <img class="f-img img-fluid mx-auto" src="img/b1.jpg" alt="">
+    <h4>
+    <a href="https://www.holidify.com/places/cherrapunjee/double-decker-living-root-bridge-sightseeing-1556.html">Double Decker Living Root Bridge</a>
+    </h4>
+    <p>
+        This area is famous for root bridges made of Indian Rubber Tree, but the Double Decker Bridge is the most famous of all due to its large size. 
+    </p>
+
+    <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+        <div>
+            <img class="img-fluid" src="img/user.jpg" alt="">
+            <a href="https://www.instagram.com/prriya.nayak/"><span>Priya Nayak</span></a>
+        </div>
+        
+        <div class="meta">
+            17th Nov
+            <span class="lnr lnr-heart"></span> 1500
+            <span class="lnr lnr-bubble"></span> 50
+        </div>
+    </div>
+</div>
+
+<div class="single-blog col-lg-4 col-md-4">
+    <img class="f-img img-fluid mx-auto" src="img/b2.jpg" alt="">
+    <h4>
+        <a href="https://www.holidify.com/places/cherrapunjee/mawsmai-cave-sightseeing-1558.html">Mawsmai Cave</a>
+    </h4>
+    <p>
+        The length of the cave is just 150 meters which is not the longest compared to the other caves in the region but it surely provides one a glimpse of life in the underground.
+    </p>
+
+    <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+        <div>
+            <img class="img-fluid" src="img/user.jpg" alt="">
+            <a href="https://www.instagram.com/prriya.nayak/"><span>Priya Nayak</span></a>
+        </div>
+
+        <div class="meta">
+            17th Nov
+            <span class="lnr lnr-heart"></span> 1500
+            <span class="lnr lnr-bubble"></span> 50
+        </div>
+    </div>
+</div>
+
+<div class="single-blog col-lg-4 col-md-4">
+    <img class="f-img img-fluid mx-auto" src="img/b3.jpg" alt="">
+    <h4>
+        <a href="https://www.holidify.com/places/shillong/elephant-falls-sightseeing-3475.html">Elephant Caves</a>
+    </h4>
+    <p>
+        Referred to as 'Ka Kshaid Lai Pateng Khohsiew' by the local Khasi people, which means 'The Three Step Waterfalls', as these falls consist of three mesmerising falls in succession. 
+    </p>
+    <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+        <div>
+            <img class="img-fluid" src="img/user.jpg" alt="">
+            <a href="https://www.instagram.com/prriya.nayak/"><span>Priya Nayak</span></a>
+        </div>
+
+        <div class="meta">
+            17th Nov
+            <span class="lnr lnr-heart"></span> 1500
+            <span class="lnr lnr-bubble"></span> 50
+        </div>
+    </div>
+</div>

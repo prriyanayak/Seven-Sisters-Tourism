@@ -1,0 +1,66 @@
+<div class="col-lg-2 col-sm-6 single-packages no-padding">
+						  <div class="content">
+						    <a href="#" target="_blank">
+						      <div class="content-overlay"></div>
+						  		 <img class="content-image img-fluid d-block mx-auto" src="img/waterfall.jpg" height="5" alt="">
+						      <div class="content-details fadeIn-bottom">
+						        <h3 class="content-title">Beautiful waterfalls</h3>
+						      </div>
+						    </a>
+						  </div>
+						</div>
+						<div class="col-lg-2 col-sm-6 single-packages no-padding">
+						  <div class="content">
+						    <a href="#" target="_blank">
+						      <div class="content-overlay"></div>
+						  		 <img class="content-image img-fluid d-block mx-auto" src="img/templeap.jpg" alt="">
+						      <div class="content-details fadeIn-bottom">
+						        <h3 class="content-title">Historic Temples</h3>
+						      </div>
+						    </a>
+						  </div>
+						</div>
+						<div class="col-lg-2 col-sm-6 single-packages no-padding" >
+						  <div class="content">
+						    <a href="#" target="_blank">
+						      <div class="content-overlay"></div>
+						  		 <img class="content-image img-fluid d-block mx-auto" src="img/c1.jpg" alt="">
+						      <div class="content-details fadeIn-bottom">
+						        <h3 class="content-title">Breathtaking sceneries</h3>
+						      </div>
+						    </a>
+						  </div>
+						</div>
+						<div class="col-lg-2 col-sm-6 single-packages no-padding">
+						  <div class="content">
+						    <a href="#" target="_blank">
+						      <div class="content-overlay"></div>
+						  		 <img class="content-image img-fluid d-block mx-auto" src="img/nationalparl.jpg"  alt="">
+						      <div class="content-details fadeIn-bottom">
+						        <h3 class="content-title">National Parks</h3>
+						      </div>
+						    </a>
+						  </div>
+						</div>
+						<div class="col-lg-2 col-sm-6 single-packages no-padding">
+						  <div class="content">
+						    <a href="#" target="_blank">
+						      <div class="content-overlay"></div>
+						  		 <img class="content-image img-fluid d-block mx-auto" src="img/2.jpg" alt="">
+						      <div class="content-details fadeIn-bottom">
+						        <h3 class="content-title">Brahmaputra</h3>
+						      </div>
+						    </a>
+						  </div>
+						</div>
+						<div class="col-lg-2 col-sm-6 single-packages no-padding">
+						  <div class="content">
+						    <a href="#" target="_blank">
+						      <div class="content-overlay"></div>
+						  		 <img class="content-image img-fluid d-block mx-auto" src="img/tawang.jpeg" alt="">
+						      <div class="content-details fadeIn-bottom">
+						        <h3 class="content-title">World famous Tawang Monastery</h3>
+						      </div>
+						    </a>
+						  </div>
+						</div>

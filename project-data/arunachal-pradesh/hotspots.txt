@@ -1,0 +1,61 @@
+<div class="single-blog col-lg-4 col-md-4">
+
+							<img class="f-img img-fluid mx-auto" src="img/orchid.jpg" alt="">
+							<h4>
+								<a href="#">Arunachal Pradesh is the Orchid state of India</a>
+							</h4>
+							<p>
+								India is a host to over 1300 species of orchids. Most of these are found in the north-eastern part of India out of which Arunachal alone has around 600 species.
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								<div>
+									<img class="img-fluid" src="img/i1.jpg" alt="">
+									<a href="#"><span>Mark Wiens</span></a>
+								</div>
+								<div class="meta">
+									13th Nov, 2019
+									<span class="lnr lnr-heart"></span> 15
+									<span class="lnr lnr-bubble"></span> 400
+								</div>
+							</div>
+						</div>
+						<div class="single-blog col-lg-4 col-md-4">
+							<img class="f-img img-fluid mx-auto" src="img/momo.jpg" alt="">
+							<h4>
+								<a href="#">Food of Arunachal Pradesh</a>
+							</h4>
+							<p>
+								The food of Arunachal Pradesh is a topic that draws a lot of attention! The first thing you should know about Arunachal Pradesh food is that it differs from tribe to tribe. As you move toward the eastern side of Arunachal people are dependent on bamboo and other leafy vegetables which are strictly boiled. Fried food is not very popular as people like to eat either boiled or smoked food.
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								<div>
+									<img class="img-fluid" src="img/i4.jpg" alt="">
+									<a href="#"><span>RhyG</span></a>
+								</div>
+								<div class="meta">
+									28th Oct, 2019
+									<span class="lnr lnr-heart"></span> 30
+									<span class="lnr lnr-bubble"></span> 3563
+								</div>
+							</div>
+						</div>
+						<div class="single-blog col-lg-4 col-md-4">
+							<img class="f-img img-fluid mx-auto" src="img/night.jpeg" alt="">
+							<h4>
+								<a href="#">Nightlife </a>
+							</h4>
+							<p>
+								Discover the best nightlife in Arunachal Pradesh including Dharma Coffee House, Orange Restaurant cum Lounge Bar.
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								<div>
+									<img class="img-fluid" src="img/i5.jpg" alt="">
+									<a href="#"><span>PartyBro</span></a>
+								</div>
+								<div class="meta">
+									13th Dec, 2018
+									<span class="lnr lnr-heart"></span> 15
+									<span class="lnr lnr-bubble"></span> 50
+								</div>
+							</div>
+						</div>

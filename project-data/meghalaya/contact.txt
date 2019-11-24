@@ -1,0 +1,35 @@
+<div class="single-info col-lg-3 col-md-6">
+    <h4>Visit Our Office</h4>
+    <p>
+        The Directorate of Tourism, 
+        3rd Secretariat Nokrek Building, 
+        Lower Lachumiere, Shillong-793001
+    </p>    
+</div>
+
+<div class="single-info col-lg-3 col-md-6">
+    <h4>Call us</h4>
+    <p>
+        Phone 01: +91-364-2502166 <br>
+        Phone 02: +91-364-2500736 <br>
+        FAX: +91-364-2226054
+    </p>
+</div>
+
+<div class="single-info col-lg-3 col-md-6">
+    <h4>Email Us</h4>
+    <p>
+        webmaster-meg@nic.in <br>
+        grievances@mg.nic.in <br>
+        infohelp@mg.nic.in
+    </p>
+</div>
+
+<div class="single-info col-lg-3 col-md-6">
+    <h4>Customer Support</h4>
+    <p>
+        support@mg.nic.in <br>
+        emergencysupp@mg.nic.in <br>
+        extremesupp@mg.nic.in
+    </p>
+</div>
